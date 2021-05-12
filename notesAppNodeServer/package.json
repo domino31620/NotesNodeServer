@@ -1,0 +1,23 @@
+{
+  "name": "notesapp",
+  "version": "1.0.0",
+  "description": "**Instruction**",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayandres/notesApp.git"
+  },
+  "keywords": [],
+  "author": "Dom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayandres/notesApp/issues"
+  },
+  "homepage": "https://github.com/ayandres/notesApp#readme",
+  "dependencies": {
+    "start": "^5.1.0"
+  }
+}
